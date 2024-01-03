@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Track_IT</string>
+
+    <!-- Text View -->
+    <string name="name">Name</string>
+    <string name="email">E-Mail</string>
+    <string name="phoneNo">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="status">Status</string>
+    <string name="description">Description</string>
 </resources>
